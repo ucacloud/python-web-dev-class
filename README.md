@@ -1,18 +1,11 @@
 # Web Dev Class — JS / Python
 
 This repo is my structured practice space for learning **Python, JavaScript, and Web Development fundamentals** with ChatGPT as my mentor.  
-Each week is broken into topics with exercises and projects.    
-
----
+Each week is broken into topics with exercises and projects.  
 
 ## 📝 Structure
 
 All exercises are stored in `week#/day#/` folders. Example:
-
-# Web Dev Class — JS / Python
-
-This repo is my structured practice space for learning **Python, JavaScript, and Web Development fundamentals** with ChatGPT as my mentor.  
-Each week is broken into topics with exercises and projects.  
 
 ---
 
