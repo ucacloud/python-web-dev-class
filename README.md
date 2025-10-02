@@ -1,32 +1,7 @@
 # Web Dev Class — JS / Python
 
 This repo is my structured practice space for learning **Python, JavaScript, and Web Development fundamentals** with ChatGPT as my mentor.  
-Each week is broken into topics with exercises and projects.  
-
----
-
-## 📅 Weekly Breakdown
-
-### Week 1 — Python Foundations
-- **Day 1:** Functions (defining, calling, parameters, return values)  
-- **Day 2:** Loops & Conditionals  
-- **Day 3:** Lists, Tuples, and Dictionaries  
-- **Day 4:** Error Handling & Debugging  
-- **Day 5:** Mini Project (console-based)  
-
-### Week 2 — JavaScript Foundations
-- **Day 1:** Variables, Functions, and Scope  
-- **Day 2:** Arrays and Objects  
-- **Day 3:** DOM Manipulation  
-- **Day 4:** Event Handling  
-- **Day 5:** Mini Project (browser-based)  
-
-### Week 3 — Full Stack Basics
-- **Day 1:** Python Django project setup  
-- **Day 2:** Models, Views, Templates  
-- **Day 3:** JavaScript + Django (fetch, APIs)  
-- **Day 4:** Authentication basics  
-- **Day 5:** Mini Project (basic web app)  
+Each week is broken into topics with exercises and projects.    
 
 ---
 
